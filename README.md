@@ -41,3 +41,44 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Estilo de la narración**: líneas temporales, mapas de situación, documentales rescatados de YouTube. Todo esto acompañado de relatos de aproximadamente 400 palabras. 
 
+### Etapa 2: Protitipar/productos
+
+**Portada y herramienta utilizada**: Photoshop.
+
+**Redes sociales**: Twitter e Instagram.
+ 
+
+### Etapa 3: Técnicas de evaluación utilizadas. 
+
+
+### Conclusión y trabajo futuro
+
+* Grado de consecución del proyecto.
+
+* Problemas identificados: 
+
+* Propuestas de mejora: en el diseño de la plataforma. 
+
+* Posible interés en el proyecto: podrían colaborar familiares de las perioditas e, incluso, algunas de ellas que siguen vivas. Es un proyecto viable. 
+
+**Referencias y recursos**
+
+* Artículos.
+
+* Libros en papel y online. 
+
+* Imágenes.
+
+* Videos. 
+
+
+-------
+**Referencias y recursos utilizados**
+
+* [Proceso UX] (https://uxmastery.com/resources/process/)
+
+* [Diseño de experiencias UX] (http://www.nosolousabilidad.com/articulos/uxd.htm)
+
+* [Métodos UX] (https://mgea.github.io/UX-DIU-Checklist/index.html)
+
+* [MuseMap: ejemplo de experiencia en UX] (https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
