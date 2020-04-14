@@ -35,3 +35,9 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * Lluvia Violeta: es una Asociación Juvenil de Bolaños de Calatrava, Ciudad Real, que, para el 8 de marzo, creó un juego interactivo muy interesante. Empapelaron el pueblo con códigos QR asociados a mujeres importantes de allí. Cuando se escaneaba el código, aparecía una pequeña biografía de estas grandes mujeres. 
 
+**Motivación de la propuesta**: El mundo del periodismo de guerra es extremadamente llamativo y, sin embargo, apenas aparece en los noticiarios o se aborda en las aulas. Cuando entras en la universidad, es el periodismo que más llama la atención, que más engancha. Es el periodismo más humano, más bonito. Creo en la necesidad de que grandes nombres de mujeres periodistas que han decidido informar desde puntos geográficos conflictivos no se pierdan entre las páginas y se acaben borrando de los idearios colectivos. De ahí surge la necesidad de dar vida a un proyecto como este. 
+
+**Personas/Usuarias y usuarios**: No creo que sea necesario acotar el público objetivo, ya que debería ser considerado cultura general. Aún así, creo que a muchas mujeres, sobre todo periodistas, les puede interesar. 
+
+**Estilo de la narración**: líneas temporales, mapas de situación, documentales rescatados de YouTube. Todo esto acompañado de relatos de aproximadamente 400 palabras. 
+
