@@ -20,5 +20,15 @@
 **Medios**: Github, Twitter e Instagram.
 
 
-
 -----------
+### Metodología
+
+### Etapa 1: Ideación del proyecto.
+
+Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+
+**Investigación de campo**: Perfiles que me han inspirado.
+
+* El título del proyecto está inspirado en uno de los libros de Maruja Torres que se llama *Mujer en guerra*. Creo que es un libro pionero en la manera de relatar el papel de una mujer periodista en conflictos armados. 
+
+* @LadyDistopia: 
