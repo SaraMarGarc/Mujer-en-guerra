@@ -50,12 +50,15 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 ### Etapa 3: Técnicas de evaluación utilizadas. 
 
+* Test de usuarias/os.
+
+* 
 
 ### Conclusión y trabajo futuro
 
-* Grado de consecución del proyecto.
+* Grado de consecución del proyecto: objetivos cumplidos a la perfección.
 
-* Problemas identificados: 
+* Problemas identificados: el posicionamiento y la visibilidad en Google y en otras redes sociales. 
 
 * Propuestas de mejora: en el diseño de la plataforma. 
 
