@@ -52,7 +52,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * Test de usuarias/os.
 
-* 
+* Uso de herramientas como Tweetreach, Hashtracking o MentionMap. 
 
 ### Conclusión y trabajo futuro
 
