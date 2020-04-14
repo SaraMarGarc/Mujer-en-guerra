@@ -75,10 +75,10 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 -------
 **Referencias y recursos utilizados**
 
-* [Proceso UX] (https://uxmastery.com/resources/process/)
+* [Proceso UX](https://uxmastery.com/resources/process/)
 
-* [Diseño de experiencias UX] (http://www.nosolousabilidad.com/articulos/uxd.htm)
+* [Diseño de experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm)
 
-* [Métodos UX] (https://mgea.github.io/UX-DIU-Checklist/index.html)
+* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html)
 
-* [MuseMap: ejemplo de experiencia en UX] (https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
+* [MuseMap: ejemplo de experiencia en UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
