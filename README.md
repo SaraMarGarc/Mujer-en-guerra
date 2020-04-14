@@ -31,4 +31,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * El título del proyecto está inspirado en uno de los libros de Maruja Torres que se llama *Mujer en guerra*. Creo que es un libro pionero en la manera de relatar el papel de una mujer periodista en conflictos armados. 
 
-* @LadyDistopia: 
+* @LadyDistopia: la manera de escribir es inspiradora. Atrapa a las/os lectoras/es. 
+
+* Lluvia Violeta: es una Asociación Juvenil de Bolaños de Calatrava, Ciudad Real, que, para el 8 de marzo, creó un juego interactivo muy interesante. Empapelaron el pueblo con códigos QR asociados a mujeres importantes de allí. Cuando se escaneaba el código, aparecía una pequeña biografía de estas grandes mujeres. 
+
