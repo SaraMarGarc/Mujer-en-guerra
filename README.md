@@ -9,7 +9,7 @@
 
 **Logotipo**: 
 
-**Slogan**: 
+**Slogan**: Esto va por vosotras
 
 **Hasgtag**: Mujerenguerra
 
