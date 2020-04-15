@@ -5,7 +5,7 @@
 
 **Autora**: Sara Martín García.
 
-**Resumen**: Relatos sobre mujeres españolas que han sido importantes dentro del mundo del periodismo de guerra. Mujeres que han puesto si vida en peligro para poder informar al mundo lo que estaban captaban sus sentidos y sus cámaras. 
+**Resumen**: Artículos biográficos sobre mujeres españolas que han sido importantes dentro del mundo del periodismo de guerra. Mujeres que han puesto si vida en peligro para poder informar al mundo lo que estaban captaban sus sentidos y sus cámaras. 
 
 **Logotipo**: 
 
@@ -39,11 +39,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Personas/Usuarias y usuarios**: No creo que sea necesario acotar el público objetivo, ya que debería ser considerado cultura general. Aún así, creo que a muchas mujeres, sobre todo periodistas, les puede interesar. 
 
-**Estilo de la narración**: líneas temporales, mapas de situación, documentales rescatados de YouTube. Todo esto acompañado de relatos de aproximadamente 400 palabras. 
+**Estilo de la narración**: líneas temporales, mapas de situación, documentales rescatados de YouTube. Todo esto acompañado de artículos de entre 400 o 500 palabras. 
 
 ### Etapa 2: Protitipar/productos
 
-**Portada y herramienta utilizada**: Photoshop.
+**Portada y herramienta utilizada**: Photoshop y Canva.
 
 **Redes sociales**: Twitter e Instagram.
  
