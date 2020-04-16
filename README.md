@@ -13,11 +13,11 @@
 
 **Hasgtag**: Mujerenguerra
 
-**Licencia**: Recomocimiento CC BY
+**Licencia**: BSD 3-Clause License.
 
-**Fecha**: 2020
+**Fecha**: 2020.
 
-**Medios**: Github, Twitter Wix.
+**Medios**: Github, Twitter Y Wix.
 
 
 -----------
@@ -25,7 +25,7 @@
 
 ### Etapa 1: Ideación del proyecto.
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante [Trello](https://trello.com/b/3YjvDccp/proyectomultimedia)
 
 **Investigación de campo**: Perfiles que me han inspirado.
 
