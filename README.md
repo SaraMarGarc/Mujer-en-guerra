@@ -17,7 +17,7 @@
 
 **Fecha**: 2020
 
-**Medios**: Github, Twitter e Instagram.
+**Medios**: Github y Twitter.
 
 
 -----------
@@ -45,7 +45,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Portada y herramienta utilizada**: Photoshop, Infogram, Canva.
 
-**Redes sociales**: [Twitter](https://twitter.com/GuerraMujer) e Instagram.
+**Redes sociales**: [Twitter](https://twitter.com/GuerraMujer).
  
 
 ### Etapa 3: Técnicas de evaluación utilizadas. 
