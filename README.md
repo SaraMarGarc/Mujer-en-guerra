@@ -13,11 +13,11 @@
 
 **Hasgtag**: Mujerenguerra
 
-**Licencia**: 
+**Licencia**: Recomocimiento CC BY
 
 **Fecha**: 2020
 
-**Medios**: Github y Twitter.
+**Medios**: Github, Twitter Wix.
 
 
 -----------
@@ -43,11 +43,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 ### Etapa 2: Protitipar/productos
 
-**Portada y herramienta utilizada**: Photoshop, Infogram, Canva.
+**Portada y herramienta utilizada**: Photoshop, Infogram, Canva, Wix.
 
-**Redes sociales**: [Twitter](https://twitter.com/GuerraMujer).
+**Redes sociales**: [Twitter](https://twitter.com/GuerraMujer) y [Wix](https://mujerenguerra.wixsite.com/mujer-en-guerra).
  
-
+ 
 ### Etapa 3: Técnicas de evaluación utilizadas. 
 
 * Test de usuarias/os.
