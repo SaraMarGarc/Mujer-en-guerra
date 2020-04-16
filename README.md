@@ -37,15 +37,15 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Motivación de la propuesta**: El mundo del periodismo de guerra es extremadamente llamativo y, sin embargo, apenas aparece en los noticiarios o se aborda en las aulas. Cuando entras en la universidad, es el periodismo que más llama la atención, que más engancha. Es el periodismo más humano, más bonito. Creo en la necesidad de que grandes nombres de mujeres periodistas que han decidido informar desde puntos geográficos conflictivos no se pierdan entre las páginas y se acaben borrando de los idearios colectivos. De ahí surge la necesidad de dar vida a un proyecto como este. 
 
-**Personas/Usuarias y usuarios**: No creo que sea necesario acotar el público objetivo, ya que debería ser considerado cultura general. Aún así, creo que a muchas mujeres, sobre todo periodistas, les puede interesar. 
+**Personas/Usuarias y usuarios**: No creo que sea necesario acotar el público objetivo, ya que debería ser considerado cultura general. Aún así, creo que a muchas mujeres, sobre todo periodistas, les puede interesar y motivar a seguir luchando por encontrar su hueco en el mundo periodístico. 
 
-**Estilo de la narración**: líneas temporales, mapas de situación, documentales rescatados de YouTube. Todo esto acompañado de artículos de entre 400 o 500 palabras. 
+**Estilo de la narración**: líneas temporales, mapas de situación, infografías, documentales y videos rescatados de YouTube. Todo esto acompañado de artículos de entre 400 o 500 palabras. 
 
 ### Etapa 2: Protitipar/productos
 
-**Portada y herramienta utilizada**: Photoshop y Canva.
+**Portada y herramienta utilizada**: Photoshop, Infogram, Canva.
 
-**Redes sociales**: Twitter e Instagram.
+**Redes sociales**: [Twitter](https://twitter.com/GuerraMujer) e Instagram.
  
 
 ### Etapa 3: Técnicas de evaluación utilizadas. 
